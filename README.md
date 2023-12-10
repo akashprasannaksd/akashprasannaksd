@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akash prasanna
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning master's in Computer Science   
-- 💞️ I’m looking to collaborate Azure and IOT
+- 💞️ I’m looking to collaborate Azure 
 - 📫 How to reach me - akashprasannaksd@gmail.com
 
 <!---
