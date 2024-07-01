@@ -3,7 +3,7 @@
 - 🌱 Master's in Computer Science   
 - 📫 How to reach me - akashprasannaksd@gmail.com
           or
-  LinkedIn - (inkedin.com/in/akash-p-ksd/)
+  [LinkedIn](linkedin.com/in/akash-p-ksd/)
 <!---
 akashprasannaksd/akashprasannaksd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
